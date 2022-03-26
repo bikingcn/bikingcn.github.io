@@ -9,7 +9,7 @@ tags: [Jekyll,Blog,vscode]
 ## Github Page + Jekyll
 我选用的是Jekyll主题[Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)，其效果页面和使用手册在[Live Demo](https://chirpy.cotes.info/)，创建该主题的page repo有两种方式：
 1. 使用[Chripy Starter](https://github.com/cotes2020/chirpy-starter)：非常容易进行主题的版本升级，隔离无关的主题文件项目，仓库比较简洁。
-2. 直接在GitHub123上dddFork该[项目](https://github.com/cotes2020/jekyll-theme-chirpy)：对个性化二次开发友好但是难升级，经过各种折腾后的我个人不推荐使用。 
+2. 直接在GitHub上Fork该[项目](https://github.com/cotes2020/jekyll-theme-chirpy)：对个性化二次开发友好但是难升级，经过各种折腾后的我个人不推荐使用。 
 
 下面记录我用第一种方法Starter踩的一些坑：
 1. 配置本地环境：参考 [Jekyll Docs](https://jekyllrb.com/docs/installation/) 安装 `Ruby`，`RubyGems`，`Jekyll` 和 `Bundler`。
